@@ -1,4 +1,5 @@
-# pacmen
+# PacMen ReadMe
+
 TITLE:
 PacMen Factory
 
@@ -13,6 +14,3 @@ There is a JavaScript array being used in this application that tracks the posit
 
 LICENSE INFORMATION:
 Licensing information can be found in the PacMen repo locate the "LICENSE" file.
-
-
-<img src="PacMan1.png">
