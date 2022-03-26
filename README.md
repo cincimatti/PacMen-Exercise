@@ -1,6 +1,6 @@
 # PacMen ReadMe
 ## JavaScript PacMen Exercise
-<img src= "images/PacMan2.png" width='200'>
+<img src= "images/PacMan3.png" width='100'>
 
 TITLE:
 PacMen Factory
