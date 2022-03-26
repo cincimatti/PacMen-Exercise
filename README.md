@@ -1,10 +1,19 @@
 # PacMen ReadMe
+## JavaScript PacMen Exercise
+<img src= "images/PacMan2.png" width='200'>
 
 TITLE:
 PacMen Factory
 
 DESCRIPTION:
 This is a factory for making PacMen using HTML as the frontend
+
+HOW TO RUN:
+The software is hosted on github here https://github.com/cincimatti/PacMen-Exercise.
+It can be reached at https://cincimatti.github.io/PacMen-Exercise/  for live demonstrations.
+
+ROADMAP:
+1.) ROADMAPPED FEATURES: No additioanl features are roadmapped at this time.
 
 OPERATING INSTRUCTIONS:
 When the "Add PacMan" button is pressed a new PacMan will appear on the screen. 
