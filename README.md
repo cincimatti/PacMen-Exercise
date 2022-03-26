@@ -13,7 +13,7 @@ The software is hosted on github here https://github.com/cincimatti/PacMen-Exerc
 It can be reached at https://cincimatti.github.io/PacMen-Exercise/  for live demonstrations.
 
 ROADMAP:
-1.) ROADMAPPED FEATURES: No additioanl features are roadmapped at this time.
+No additioanl features are roadmapped at this time.
 
 OPERATING INSTRUCTIONS:
 When the "Add PacMan" button is pressed a new PacMan will appear on the screen. 
